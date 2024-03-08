@@ -1,0 +1,6 @@
+{
+        map "tds"
+        longname "Team Deathmatch Simulator."
+        type "tremulous"
+        author "Gucior"
+}
