@@ -7,7 +7,7 @@ Date:     March 6-7 2021
  This is a gameplay version.
 
 ---- CREDITS ---------------------------------------------------
-  
+
 Map created by Gucior.
 
 E-mail: walkmanaka@gmail.com
